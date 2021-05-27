@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '孤岛',
+  title: '不要停留，请往前走',
   author: 'Yuzhe Liu',
-  email: 'i@craigary.net',
+  email: 'hdu.llliuer@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: '你好，欢迎光临本岛！',
+  description: '     你好，欢迎光临本岛！',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
